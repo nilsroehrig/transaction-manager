@@ -121,4 +121,3 @@ Events are passed as regular component props instead of special syntax
 
 ### Snippets as Props
 Reusable markup blocks (like revert buttons) can be passed as snippet props to components
-# transaction-manager
